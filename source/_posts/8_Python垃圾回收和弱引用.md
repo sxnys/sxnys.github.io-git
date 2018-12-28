@@ -1,6 +1,8 @@
 ---
 title: Python垃圾回收和弱引用
-tags: Python
+tags: 
+- Python
+- Fluent Python
 comments: on
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Python数据模型
-tags: Python
+tags: 
+- Python
+- Fluent Python
 comments: on
 ---
 

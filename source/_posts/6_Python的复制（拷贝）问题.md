@@ -1,6 +1,8 @@
 ---
 title: Python的复制（拷贝）问题
-tags: Python
+tags: 
+- Python
+- Fluent Python
 comments: on
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Python变量
-tags: Python
+tags: 
+- Python
+- Fluent Python
 comments: on
 ---
 

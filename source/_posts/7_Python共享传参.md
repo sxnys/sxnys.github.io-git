@@ -1,6 +1,8 @@
 ---
 title: Python共享传参
-tags: Python
+tags: 
+- Python
+- Fluent Python
 comments: on
 ---
 
