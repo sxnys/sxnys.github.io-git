@@ -79,5 +79,5 @@ theme: new-vno
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/sxnhys/sxnhys.github.io.git
+  repository: https://github.com/sxnys/sxnys.github.io.git
   branch: master
