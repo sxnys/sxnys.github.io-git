@@ -1,0 +1,19 @@
+---
+title: 剑指Offer
+tags:
+- 笔试
+- 剑指Offer
+- 刷题
+- 算法
+- 数据结构
+comments: on
+---
+
+所有题目思路和示例代码都在本人的 [GitHub](https://github.com/sxnys/learning_for_future/tree/master/D%26A/SwordOffer)，不断更新中。
+
+[1. 二维数组中的查找](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/1_%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.md)
+
+[2. 替换空格](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/2_%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md)
+
+[3. 从头到尾打印列表](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/3_%E4%BB%8E%E5%A4%B4%E5%88%B0%E5%B0%BE%E6%89%93%E5%8D%B0%E5%88%97%E8%A1%A8.md)
+
