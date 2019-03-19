@@ -17,3 +17,5 @@ comments: on
 
 [3. 从头到尾打印列表](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/3_%E4%BB%8E%E5%A4%B4%E5%88%B0%E5%B0%BE%E6%89%93%E5%8D%B0%E5%88%97%E8%A1%A8.md)
 
+[4. 重建二叉树](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/4_%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+
