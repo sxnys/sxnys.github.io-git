@@ -19,3 +19,4 @@ comments: on
 
 [4. 重建二叉树](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/4_%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
+[5. 用两个栈实现队列](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/5_%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
