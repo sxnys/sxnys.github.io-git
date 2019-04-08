@@ -23,4 +23,7 @@ comments: on
 
 [6. 旋转数组的最小数字](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/6_%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.md)
 
+[7. 斐波那契数列](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/7_%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md)
+
 [61. 序列化二叉树](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/61_%E5%BA%8F%E5%88%97%E5%8C%96%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+
