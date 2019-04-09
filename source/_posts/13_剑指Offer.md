@@ -25,5 +25,9 @@ comments: on
 
 [7. 斐波那契数列](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/7_%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md)
 
+[8. 跳台阶](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/8_%E8%B7%B3%E5%8F%B0%E9%98%B6.md)
+
+[9. 变态跳台阶](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/9_%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.md)
+
 [61. 序列化二叉树](https://github.com/sxnys/learning_for_future/blob/master/D%26A/SwordOffer/61_%E5%BA%8F%E5%88%97%E5%8C%96%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
